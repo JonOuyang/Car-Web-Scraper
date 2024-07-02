@@ -1,0 +1,9 @@
+Model,Generation,Start Year,End Year,Fuel Type
+G3,1,2018,2021,Electric
+G3,1.1,2021,2024,Electric
+G6,1,2023,2024,Electric
+G9,1,2022,2024,Electric
+P5,1,2021,2024,Electric
+P7,1,2020,2023,Electric
+P7,1.1,2023,2024,Electric
+X9,1,2024,2024,Electric
